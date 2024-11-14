@@ -1,0 +1,5 @@
+com\pixeltrice\spring_boot_image_gallary_app\repository\ImageGallaryRepository.class
+com\pixeltrice\spring_boot_image_gallary_app\SpringBootImageGallaryAppApplication.class
+com\pixeltrice\spring_boot_image_gallary_app\service\ImageGalleryService.class
+com\pixeltrice\spring_boot_image_gallary_app\entity\ImageGallary.class
+com\pixeltrice\spring_boot_image_gallary_app\controller\ImageGalleryController.class
